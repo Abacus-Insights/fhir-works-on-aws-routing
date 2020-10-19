@@ -1,5 +1,5 @@
 {
-  "name": "fhir-works-on-aws-routing",
+  "name": "@abacus-insights/fhir-works-on-aws-routing",
   "version": "1.0.0",
   "description": "FHIR Works on AWS routing implementation",
   "main": "lib/index.js",
